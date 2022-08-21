@@ -136,5 +136,5 @@
       "not.image": "Se esperaba que el fichero fuera una imagen pero se encontro \"{{ fileType }}\""
     }
   },
-  "footer": "Pie de página"
+  "footer": "Prueba técnica Daniel Petrasic - 2022/08/21"
 }
